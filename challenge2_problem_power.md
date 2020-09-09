@@ -1,4 +1,4 @@
-# Coding Problem: Check is a number is 2^N
+# Coding Problem: Check if a number is 2^N
 
 Write a function `int ckeck(num)` that checks whether num is a 2^N number for N being a positive integer.
 
